@@ -1,5 +1,5 @@
 <div align="center">
-[![Discord Presence](https://api.thorn.rest/thorn/v2/card/1164952223873257515?font=Outfit&nitro=diamond&boost=24M-boost&badges=early-supporter&nameplate=Twilight+%28Dusk%29&decoration=Twilight+%28Dusk%29)](https://discord.com/users/1164952223873257515)
+<img src="https://lanyard.cnrad.dev/api/1164952223873257515" alt="discord presence" />
 <br/>
 **building things on the internet. mostly bots and web apps.**
 <br/>
