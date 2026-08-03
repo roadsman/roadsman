@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://lanyard.cnrad.dev/api/1285277569113133161" alt="discord presence" />
+<img src="https://lanyard.cnrad.dev/api/1164952223873257515" alt="discord presence" />
 
 <br/>
 
