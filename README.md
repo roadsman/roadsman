@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=9A9A9A&center=true&vCenter=true&width=520&height=40&lines=welcome+to+my+github;i+make+discord+bots;i+make+web+apps;i+break+things+then+fix+them" alt="typing" />
 </p>
 
-> independent dev making discord bots, selfbots and web apps. i like bots with personality and sites that dont look like templates.
+> independent dev making discord bots, selfbots and web apps. i also manage nerve api (api.nerve.wtf)
 
 ```bash
 >> neofetch
