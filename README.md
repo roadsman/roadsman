@@ -4,7 +4,7 @@
 
 <br/>
 
-**building things on the internet. mostly bots and web apps.**
+**building things on the internet. mostly bots and APIs.**
 
 <br/>
 
